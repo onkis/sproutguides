@@ -1,0 +1,20 @@
+h2. Getting Started with Greenhouse
+
+This guide covers the basics of SproutCores built-in view designer Greenhouse.  In this guide you'll learn how to:
+
+* Layout views with Greenhouse
+* Setup Bindings with Greenhouse
+* Work with custom views
+
+endprologue.
+
+
+
+h3. Setting up your first application
+
+First, generate your new application.
+
+<shell>
+$ sc-init green-todos
+</shell>
+
